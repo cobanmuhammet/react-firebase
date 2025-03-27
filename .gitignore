@@ -10,7 +10,7 @@ node_modules
 # logs
 yarn-error.log
 npm-debug.log
-npm-debug.log.*ü
+npm-debug.log.*
 
 # generated files
 dist/
