@@ -1,3 +1,19 @@
+# library
 node_modules
 
 .env
+
+# editors
+.idea
+.vscode
+
+# logs
+yarn-error.log
+npm-debug.log
+npm-debug.log.*ü
+
+# generated files
+dist/
+
+# generated site
+site/
